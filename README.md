@@ -12,7 +12,7 @@ $ https://github.com/minarkhan/en2bn-and-bn2en-number-convert-and-counter-by-Jav
 $ Index.html run inside browser
 ```
 
-### 2. Code.
+### 3. Code Use 
 ```sh
 <!DOCTYPE html>
 <html lang="en">
