@@ -1,7 +1,6 @@
-# en2bn-and-bn2en-number-convert-and-counter-by-JavaScript
-English to bangla and bangla to english number convert and thats number counter by JavaScript
+# English to bangla and bangla to english number convert and thats number counter by JavaScript
 
-#Quickstart
+##Quickstart
 
 ### 1. Clone Repository
 ```sh
